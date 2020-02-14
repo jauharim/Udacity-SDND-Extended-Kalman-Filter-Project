@@ -7,6 +7,7 @@ This repository has files for the Udacity SDND Extended Kalman Filter Project. T
 5.	tools.cpp- function to calculate RMSE and the Jacobian matrix
 6.	kalman_filter.h - defines the KalmanFilter class
 7.	measurement_package.h - defines the MeasurementPackage class
+8. Writeup_Extended_Kalman_Filters_Project.pdf- my writeup with the Project details
 
 The Project work summary is:
 1.	In tools.cpp, fill in the functions that calculate root mean squared error (RMSE) and the Jacobian matrix.
